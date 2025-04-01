@@ -1,0 +1,3 @@
+This Black Ops 6 cheat features anti-aim, spinbot, aimbot, streamproof esp/walls, and much much more! Some features may be missing/broken as this cheat focuses primarily on Ricochet evasion and is more of side project as an actual developed cheat.
+This project is EXPERIMENTAL and may have but is not limited to bugs, crashes, compatibility issues, detection issues, and more. I am not responsible for any damages incurred by the use of this program, as it is experimental and to be used at your own risk!
+That being said, are you ready to level up your gameplay? Download now from the Releases tab on the right side of the page!
