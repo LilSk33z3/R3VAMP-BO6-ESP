@@ -30,7 +30,7 @@ To ensure functionality of the loader, make sure **Real-time protection** and **
 2. **Prepare for Injection**
    - Make sure **Black Ops 6** is closed before proceeding.
    - Run **R3VAMP.exe**.
-   - After about 2-3 seconds you will see a pop-up that says "Injection Complete." 
+   - You will see a command window pop-up that is blank and closes immediately. This is a known bug, the window thats supposed to pop up is not functioning currently, UI fix to be implemented soon. If you do not see the command window, the injection has failed. 
 
 3. **Launch and Play**
    - Start **Black Ops 6** and enjoy the enhanced features!
